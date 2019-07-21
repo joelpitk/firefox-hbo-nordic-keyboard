@@ -1,0 +1,14 @@
+{
+  "name": "firefox-hbo-nordic-keyboard",
+  "version": "1.0.0",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "web-ext run -s ./src",
+    "build": "web-ext build -s ./src --overwrite-dest"
+  },
+  "devDependencies": {
+    "prettier": "^1.18.2",
+    "web-ext": "^3.1.1"
+  }
+}
