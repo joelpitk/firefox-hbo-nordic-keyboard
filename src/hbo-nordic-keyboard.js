@@ -1,4 +1,4 @@
-const videoDiv = "#vjs_video_1";
+const videoDiv = "div.video-js";
 const playButton = "button.vjs-play-control";
 const fullscreenButton = "button.vjs-fullscreen-control";
 const backwardButton = "button.backward-button";

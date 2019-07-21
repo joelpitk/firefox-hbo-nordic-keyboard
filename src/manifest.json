@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "HBO Nordic keyboard controls",
-  "version": "1.0",
+  "version": "1.0.1",
   "description": "Adds keyboard shortcuts for HBO Nordic player",
   "content_scripts": [
     {
